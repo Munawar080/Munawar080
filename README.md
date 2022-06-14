@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Munawar Hassan
 - 👀 I’m interested in front and back end web development with the Angular framework 2+, javascript, .Net (C#), SQL Server and MySQL.
-- 🌱 I’m currently learning version control system like Git, TFS and try to improve Angular to implement better code.
+- 🌱 I’m currently learning version control system like Git, TFS and try to improve Angular and .Net to implement better code.
 - 💞️ I’m looking to collaborate on Angular, Javascript, .Net (C#) projects
 - 📫 How to reach me on given linkedin link.
 -     linkedin.com/in/munawar-hassan-aa74911a4
