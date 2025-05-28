@@ -1,6 +1,3 @@
-Hi there,
-Meet Munawar Hassan. An expert frontend developer.
-I am an experienced front-end developer with a strong background in building high-quality and user-friendly web applications. My expertise includes HTML, CSS, JavaScript, and various front-end frameworks such as Angular. I have a deep understanding of responsive design, cross-browser compatibility, and performance optimization techniques. I have experience integrating with APIs and working on large-scale projects with teams of developers. I am a continuous learner and stay up-to-date with the latest front-end development technologies and trends. My strong communication skills and ability to collaborate with both technical and non-technical stakeholders make me an asset to any project. I am confident in my ability to deliver visually appealing and functional web applications that meet and exceed customer expectations.
+Experienced Full Stack Web Developer with 4+ years of hands-on expertise in building dynamic, scalable, and user-focused web applications. Specializing in Angular (RxJS, NgRx, NgXs, TypeScript) for developing robust front-end solutions and React.js/Next.js for modern, high-performance interfaces. Proficient in backend development using .NET (C#), with solid experience integrating RESTful APIs, handling data flow, and optimizing performance across the stack.
 
-Sincerely,
-Munawar
+Strong advocate for clean architecture, responsive design, and cross-browser compatibility. Proven track record of collaborating with cross-functional teams to deliver web-based digital products and applications. Passionate about continuous learning, Agile practices, and leveraging emerging technologies to create impactful, user-centric experiences.
